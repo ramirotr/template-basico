@@ -8,7 +8,6 @@
 header{
     width: 100%;
     height: 200px;
-    border: 1px solid red;
     background-image: url(https://t3.ftcdn.net/jpg/02/00/12/40/360_F_200124079_6ayr4VU5AhLMfwPaDOxIk6Dgv0JWaCwX.jpg)
 }
 
@@ -40,13 +39,43 @@ body{
 main{
     width: 100%;
     height: 700px;
-    border: 1px solid red;
+    background-color: rgb(230, 224, 224);
+}
+
+main h2{
+    font-size: 35px;
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    text-align: center;
+}
+
+main h3{
+    font-size: 24px;
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    text-align: center;
+}
+
+main p{
+    font-size: 18px;
+    text-align: justify;
+    margin-right: 620px;
+    margin-left: 10px;
+}
+
+main img{
+    width: 300px;
+    height: 500px;
+    position: relative;
+    left: 800px;
+    bottom: 420px;
     
 }
 
 footer{
     width: 100%;
-    height: 200px;
-    border: 1px solid red;
-
+    height: 330px;
+    background-image: url(https://t3.ftcdn.net/jpg/02/00/12/40/360_F_200124079_6ayr4VU5AhLMfwPaDOxIk6Dgv0JWaCwX.jpg)
 }
