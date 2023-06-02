@@ -79,3 +79,18 @@ footer{
     height: 330px;
     background-image: url(https://t3.ftcdn.net/jpg/02/00/12/40/360_F_200124079_6ayr4VU5AhLMfwPaDOxIk6Dgv0JWaCwX.jpg)
 }
+
+footer h3{
+    text-align: center;
+    font-size: 27px;
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    position: relative;
+    bottom: 40px;
+}
+
+#foto1{
+    width: 370px;
+    height: 300px;
+}
