@@ -63,6 +63,8 @@ main p{
     text-align: justify;
     margin-right: 620px;
     margin-left: 10px;
+    position: relative;
+    left: 30px;
 }
 
 main img{
@@ -77,7 +79,7 @@ main img{
 footer{
     width: 100%;
     height: 330px;
-    background-image: url(https://t3.ftcdn.net/jpg/02/00/12/40/360_F_200124079_6ayr4VU5AhLMfwPaDOxIk6Dgv0JWaCwX.jpg)
+    background-color: grey;
 }
 
 footer h3{
@@ -91,6 +93,85 @@ footer h3{
 }
 
 #foto1{
-    width: 370px;
-    height: 300px;
+    border: 1px solid red;
+    width: 270px;
+    height: 190px;
+    float: left;
+}
+
+#foto2{
+    border: 1px solid red;
+    width: 270px;
+    height: 190px;
+    float: left;
+}
+
+#foto3{
+    border: 1px solid red;
+    width: 270px;
+    height: 190px;
+    float: left;
+}
+
+#tituloproduto1{
+    text-align: center;
+    font-size: 20px;
+
+}
+
+#tituloproduto2{
+    text-align: center;
+    font-size: 20px;
+
+}
+
+#tituloproduto3{
+    text-align: center;
+    font-size: 20px;
+
+}
+
+#descricao1{
+    font-size: 15px;
+    position: relative;
+    top: 200px;
+    right: 250px;
+    margin-right: -250px;
+}
+
+#descricao2{
+    font-size: 15px;
+    position: relative;
+    top: 200px;
+    right: 250px;
+    margin-right: -250px;
+}
+
+#descricao3{
+    font-size: 15px;
+    position: relative;
+    top: 200px;
+    right: 250px;
+    margin-right: -250px;
+}
+
+#div1{
+    border: 1px solid red;
+    height: 280px;
+    width: 410px;
+    float: left;
+}
+
+#div2{
+    border: 1px solid red;
+    height: 280px;
+    width: 410px;
+    float: left;
+}
+
+#div3{
+    border: 1px solid red;
+    height: 280px;
+    width: 410px;
+    float: left;
 }
